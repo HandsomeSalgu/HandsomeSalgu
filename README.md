@@ -2,7 +2,7 @@
   <h1>
     ${\small \textsf{Welcome to}}$<br>
     ${\Huge \textsf{\color{#1E90FF}Taehyuk's Git!}}$
-  </h1>
+  </h1>  
   <p>
     ${\Huge \textsf{My Stack}}$
   </p>
@@ -30,11 +30,18 @@
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
   
-  ### 🛠️ Tools & Collaboration
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  
   ### 📜 Certifications
   <img src="https://img.shields.io/badge/정보처리기사-1E90FF?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logoColor=white">
+  
+  #
+  <p>
+    ${\Huge \textsf{Contact me}}$
+  </p>
+  <a href="https://www.notion.so/27e0380f207b80dbacdddf44a8c81534?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+  <a href="https://velog.io/@rnjsxogur98/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
+  </a>
 </div>
